@@ -10,7 +10,7 @@ summary: "Zacharias hat nicht geglaubt. Aber in seinem Herzen, da wächst ein ne
 source: pfarrplaner
 source_id: "50@www.pfarrplaner.de"
 cover_alt: "Titelbild zur Predigt \"Benedictus\"."
-audio: audio.mp3
+audio: benedictus-2.mp3
 audio_duration: "16:18"
 legacy_id: 50
 events:
